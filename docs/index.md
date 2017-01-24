@@ -17,8 +17,8 @@ collaboratively developed. This documentation tells you how to do that.
 It starts with a high level introduction to get you familiar
 with CiviCRM development. It covers setting up your developer environment,
 ensuring that you really need to start coding (i.e. you can't achieve what you
-want thought configuration or installing an already existing extension), best
-practice ways to extend CiviCRM (aka how to write an extensions), things you
+want through configuration or installing an already existing extension), best
+practice ways to extend CiviCRM (aka how to write an extension), things you
 should know before you start hacking on core, and best practice for testing.
 
 The guide also includes detailed references for tools and subsystems
